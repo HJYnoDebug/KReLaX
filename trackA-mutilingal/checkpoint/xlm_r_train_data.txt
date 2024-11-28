@@ -1,0 +1,301 @@
+Epoch: 0
+Train Loss: 0.4167
+Validation Loss: 0.3012
+Validation Accuracy: 0.8553
+Validation F1 Score: 0.8273
+Per-Label Metrics:
+  anger:
+    Accuracy: 0.8034
+    Precision: 0.8288
+    Recall: 0.1077
+    F1 Score: 0.1907
+    Jaccard Score: 0.1054
+  disgust:
+    Accuracy: 0.8104
+    Precision: 0.7742
+    Recall: 0.0988
+    F1 Score: 0.1752
+    Jaccard Score: 0.0960
+  fear:
+    Accuracy: 0.9084
+    Precision: 0.6314
+    Recall: 0.5258
+    F1 Score: 0.5738
+    Jaccard Score: 0.4023
+  joy:
+    Accuracy: 0.8470
+    Precision: 0.7173
+    Recall: 0.5598
+    F1 Score: 0.6288
+    Jaccard Score: 0.4586
+  sadness:
+    Accuracy: 0.8528
+    Precision: 0.7418
+    Recall: 0.2297
+    F1 Score: 0.3507
+    Jaccard Score: 0.2127
+  surprise:
+    Accuracy: 0.9079
+    Precision: 1.0000
+    Recall: 0.0169
+    F1 Score: 0.0332
+    Jaccard Score: 0.0169
+
+Epoch: 1
+Train Loss: 0.3389
+Validation Loss: 0.2540
+Validation Accuracy: 0.8745
+Validation F1 Score: 0.8648
+Per-Label Metrics:
+  anger:
+    Accuracy: 0.8409
+    Precision: 0.7229
+    Recall: 0.4215
+    F1 Score: 0.5325
+    Jaccard Score: 0.3629
+  disgust:
+    Accuracy: 0.8300
+    Precision: 0.6122
+    Recall: 0.4527
+    F1 Score: 0.5205
+    Jaccard Score: 0.3518
+  fear:
+    Accuracy: 0.9187
+    Precision: 0.6838
+    Recall: 0.5708
+    F1 Score: 0.6222
+    Jaccard Score: 0.4516
+  joy:
+    Accuracy: 0.8671
+    Precision: 0.8091
+    Recall: 0.5576
+    F1 Score: 0.6602
+    Jaccard Score: 0.4928
+  sadness:
+    Accuracy: 0.8623
+    Precision: 0.6707
+    Recall: 0.4026
+    F1 Score: 0.5032
+    Jaccard Score: 0.3362
+  surprise:
+    Accuracy: 0.9261
+    Precision: 0.6354
+    Recall: 0.4958
+    F1 Score: 0.5570
+    Jaccard Score: 0.3860
+
+Epoch: 2
+Train Loss: 0.3033
+Validation Loss: 0.2297
+Validation Accuracy: 0.8787
+Validation F1 Score: 0.8744
+Per-Label Metrics:
+  anger:
+    Accuracy: 0.8455
+    Precision: 0.6667
+    Recall: 0.5621
+    F1 Score: 0.6099
+    Jaccard Score: 0.4388
+  disgust:
+    Accuracy: 0.8412
+    Precision: 0.6280
+    Recall: 0.5418
+    F1 Score: 0.5817
+    Jaccard Score: 0.4102
+  fear:
+    Accuracy: 0.9227
+    Precision: 0.7120
+    Recall: 0.5730
+    F1 Score: 0.6350
+    Jaccard Score: 0.4652
+  joy:
+    Accuracy: 0.8714
+    Precision: 0.7473
+    Recall: 0.6717
+    F1 Score: 0.7075
+    Jaccard Score: 0.5474
+  sadness:
+    Accuracy: 0.8598
+    Precision: 0.6220
+    Recall: 0.4855
+    F1 Score: 0.5453
+    Jaccard Score: 0.3749
+  surprise:
+    Accuracy: 0.9306
+    Precision: 0.6704
+    Recall: 0.5099
+    F1 Score: 0.5792
+    Jaccard Score: 0.4077
+
+Epoch: 3
+Train Loss: 0.2755
+Validation Loss: 0.2096
+Validation Accuracy: 0.8823
+Validation F1 Score: 0.8751
+Per-Label Metrics:
+  anger:
+    Accuracy: 0.8495
+    Precision: 0.7278
+    Recall: 0.4789
+    F1 Score: 0.5777
+    Jaccard Score: 0.4062
+  disgust:
+    Accuracy: 0.8484
+    Precision: 0.7221
+    Recall: 0.4170
+    F1 Score: 0.5287
+    Jaccard Score: 0.3593
+  fear:
+    Accuracy: 0.9207
+    Precision: 0.7214
+    Recall: 0.5279
+    F1 Score: 0.6097
+    Jaccard Score: 0.4385
+  joy:
+    Accuracy: 0.8724
+    Precision: 0.7190
+    Recall: 0.7370
+    F1 Score: 0.7279
+    Jaccard Score: 0.5722
+  sadness:
+    Accuracy: 0.8714
+    Precision: 0.6962
+    Recall: 0.4564
+    F1 Score: 0.5514
+    Jaccard Score: 0.3806
+  surprise:
+    Accuracy: 0.9303
+    Precision: 0.6784
+    Recall: 0.4873
+    F1 Score: 0.5672
+    Jaccard Score: 0.3959
+
+Epoch: 4
+Train Loss: 0.2516
+Validation Loss: 0.2071
+Validation Accuracy: 0.8841
+Validation F1 Score: 0.8790
+Per-Label Metrics:
+  anger:
+    Accuracy: 0.8492
+    Precision: 0.7233
+    Recall: 0.4836
+    F1 Score: 0.5796
+    Jaccard Score: 0.4081
+  disgust:
+    Accuracy: 0.8565
+    Precision: 0.6753
+    Recall: 0.5706
+    F1 Score: 0.6186
+    Jaccard Score: 0.4478
+  fear:
+    Accuracy: 0.9212
+    Precision: 0.6947
+    Recall: 0.5858
+    F1 Score: 0.6356
+    Jaccard Score: 0.4659
+  joy:
+    Accuracy: 0.8752
+    Precision: 0.7500
+    Recall: 0.6913
+    F1 Score: 0.7195
+    Jaccard Score: 0.5618
+  sadness:
+    Accuracy: 0.8721
+    Precision: 0.6860
+    Recall: 0.4826
+    F1 Score: 0.5666
+    Jaccard Score: 0.3952
+  surprise:
+    Accuracy: 0.9295
+    Precision: 0.6350
+    Recall: 0.5831
+    F1 Score: 0.6079
+    Jaccard Score: 0.4367
+
+Epoch: 5
+Train Loss: 0.2301
+Validation Loss: 0.2318
+Validation Accuracy: 0.8796
+Validation F1 Score: 0.8769
+Per-Label Metrics:
+  anger:
+    Accuracy: 0.8495
+    Precision: 0.7058
+    Recall: 0.5141
+    F1 Score: 0.5949
+    Jaccard Score: 0.4233
+  disgust:
+    Accuracy: 0.8504
+    Precision: 0.6355
+    Recall: 0.6241
+    F1 Score: 0.6298
+    Jaccard Score: 0.4596
+  fear:
+    Accuracy: 0.9152
+    Precision: 0.6469
+    Recall: 0.6094
+    F1 Score: 0.6276
+    Jaccard Score: 0.4573
+  joy:
+    Accuracy: 0.8671
+    Precision: 0.7112
+    Recall: 0.7174
+    F1 Score: 0.7143
+    Jaccard Score: 0.5556
+  sadness:
+    Accuracy: 0.8671
+    Precision: 0.6527
+    Recall: 0.4971
+    F1 Score: 0.5644
+    Jaccard Score: 0.3931
+  surprise:
+    Accuracy: 0.9274
+    Precision: 0.6081
+    Recall: 0.6338
+    F1 Score: 0.6207
+    Jaccard Score: 0.4500
+
+Epoch: 6
+Train Loss: 0.2096
+Validation Loss: 0.2226
+Validation Accuracy: 0.8818
+Validation F1 Score: 0.8774
+Per-Label Metrics:
+  anger:
+    Accuracy: 0.8482
+    Precision: 0.7183
+    Recall: 0.4836
+    F1 Score: 0.5780
+    Jaccard Score: 0.4065
+  disgust:
+    Accuracy: 0.8571
+    Precision: 0.6860
+    Recall: 0.5514
+    F1 Score: 0.6114
+    Jaccard Score: 0.4403
+  fear:
+    Accuracy: 0.9210
+    Precision: 0.7197
+    Recall: 0.5343
+    F1 Score: 0.6133
+    Jaccard Score: 0.4423
+  joy:
+    Accuracy: 0.8643
+    Precision: 0.6866
+    Recall: 0.7620
+    F1 Score: 0.7223
+    Jaccard Score: 0.5653
+  sadness:
+    Accuracy: 0.8679
+    Precision: 0.6709
+    Recall: 0.4651
+    F1 Score: 0.5494
+    Jaccard Score: 0.3787
+  surprise:
+    Accuracy: 0.9324
+    Precision: 0.6495
+    Recall: 0.6056
+    F1 Score: 0.6268
+    Jaccard Score: 0.4565
+
